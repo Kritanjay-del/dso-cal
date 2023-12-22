@@ -1,0 +1,1 @@
+web: streamlit run temp.py -- "$PORT" "DSO_file.xlsx"
